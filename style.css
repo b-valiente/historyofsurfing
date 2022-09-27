@@ -1,0 +1,18 @@
+body {
+  background-image: url("Surfing.jpg");
+  background-repeat: no-repeat;
+}
+h1, h2 {
+  text-align: center;
+  color: darkred;
+}
+
+p{
+  color: darkred;
+  text-align: center;
+}
+
+img {
+  float: bottom;
+  padding: 20px;
+}
